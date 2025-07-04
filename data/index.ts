@@ -70,8 +70,24 @@ export const navItems = [
   ];
   
   export const projects = [
-      {
+       {
       id: 1,
+      title: "Interview AI",
+      des: "A smart AI-powered web app that helps users practice and prepare for interviews through interactive, real-time mock interview sessions.",
+      img: "/analyzer.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://gemini-interview-genius.vercel.app/",
+      },
+      {
+      id: 2,
+      title: "Ball Vision",
+      des: "An AI-powered sports analytics platform that provides real-time football video analysis and player performance insights",
+      img: "/analyzer.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://ballvisionai.vercel.app/",
+      },
+      {
+      id: 3,
       title: "Whatsapp Chat Analyzer",
       des: "Analyzes WhatsApp chats for user interactions and sentiment trends.",
       img: "/analyzer.svg",
@@ -79,7 +95,7 @@ export const navItems = [
       link: "https://analyzerpro.streamlit.app/",
       },
     {
-      id: 2,
+      id: 4,
       title: "Avinya (Techfest) Official Website",
       des: "Streamlining Collaboration with Advanced Development Communication Solutions.",
       img: "/avinya .svg",
@@ -87,7 +103,7 @@ export const navItems = [
       link: "https://avinya-devcomm.netlify.app/",
     },
     {
-      id: 3,
+      id: 5,
       title: "Amber Clone - A PG accomodation app",
       des: "Explore comfortable and convenient PG accommodations with our Amber PG accommodation website.",
       img: "/amber clone.svg",
@@ -95,7 +111,7 @@ export const navItems = [
       link: "https://amberclone.vercel.app/",
     },
     {
-      id: 4,
+      id: 6,
       title: "Global Gateway Tours",
       des: "Embark on unforgettable journeys and seamless travel experiences with our travel portal.",
       img: "/global gateway.svg",
@@ -103,7 +119,7 @@ export const navItems = [
       link: "https://globalgatewaytour.vercel.app/",
     },
     {
-      id: 5,
+      id: 7,
       title: "Animated Apple Iphone 3D Website",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
@@ -111,7 +127,7 @@ export const navItems = [
       link: "https://3dphones.vercel.app/",
     },
     {
-      id: 6,
+      id: 8,
       title: "BookBash",
       des: "Explore a world of literature and knowledge with our online bookstore, where every book lover finds their perfect read.",
       img: "/bookbash.svg",
@@ -119,7 +135,7 @@ export const navItems = [
       link: "https://github.com/saharsh3008/Book-Buying-Website",
     },
     {
-      id: 7,
+      id: 9,
       title: "ShopEase",
       des: "Shop smarter, faster, and easier with our comprehensive ecommerce platform offering everything you need and more.",
       img: "/ecommerce.svg",
