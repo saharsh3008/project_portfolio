@@ -6,7 +6,7 @@ A modern, high-performance developer portfolio built to showcase my projects, sk
 
 ## 🌟 Live Demo
 
-🔗 **Live Site:** [https://saharshpro.vercel.app](https://saharshpro.vercel.app) (Replace with your actual URL)  
+🔗 **Live Site:** [https://saharshpro.vercel.app](https://saharshpro.vercel.app) 
 📁 **Repo:** [https://github.com/saharsh3008/project_portfolio](https://github.com/saharsh3008/project_portfolio)
 
 ---
