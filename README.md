@@ -1,12 +1,15 @@
 # 💼 Saharsh’s Developer Portfolio
 
-A modern, high-performance developer portfolio built to showcase my projects, skills, and professional journey. Designed with **Next.js**, **TypeScript**, and **Tailwind CSS**, featuring immersive 3D elements and smooth animations.
+A modern, high-performance developer portfolio built to showcase my projects, skills, and professional journey. 
+
+Designed with **Next.js**, **TypeScript**, and **Tailwind CSS**, featuring immersive 3D elements and smooth animations.
 
 ---
 
 ## 🌟 Live Demo
 
 🔗 **Live Site:** [https://saharshpro.vercel.app](https://saharshpro.vercel.app) 
+
 📁 **Repo:** [https://github.com/saharsh3008/project_portfolio](https://github.com/saharsh3008/project_portfolio)
 
 ---
